@@ -1,5 +1,5 @@
 //====================================================================
-//11.4修改新的功能表
+//11.4脨脼赂脛脨脗碌脛鹿娄脛脺卤铆
 //====================================================================
 #include "common.h"
 
@@ -22,10 +22,10 @@ void main()
 				clr_wdt();
 			}
 			data_deal();
-            fan_door_step_deal();
-            fan_fb_deal();
-            light_deal();		
-            door_key_deal();
+		        fan_door_step_deal();
+		        fan_fb_deal();
+		        light_deal();		
+		        door_key_deal();
 			ad_deal();
 			time_deal();			
 			comm_deal();			
